@@ -1,0 +1,17 @@
+{
+    "name": "Unvurn.Unity.Core",
+    "rootNamespace": "Unvurn.Unity",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Unvurn.Core.dll",
+        "Unvurn.Network.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
